@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CA2EE793-1507-D6FC-8885-A11A1A1ECC74}") = "Toy Game V2.0", "Assembly-CSharp-firstpass.csproj", "{3FC1E053-A4AB-2F2A-5F2E-2DE234F0A9FE}"
+EndProject
+Project("{CA2EE793-1507-D6FC-8885-A11A1A1ECC74}") = "Toy Game V2.0", "Assembly-CSharp.csproj", "{16BF61D5-B675-1835-AB2E-A19EF2BC4B20}"
+EndProject
+Project("{CA2EE793-1507-D6FC-8885-A11A1A1ECC74}") = "Toy Game V2.0", "Assembly-CSharp-Editor.csproj", "{5A4516F9-AEFC-B97F-E781-59652568CCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FC1E053-A4AB-2F2A-5F2E-2DE234F0A9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC1E053-A4AB-2F2A-5F2E-2DE234F0A9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC1E053-A4AB-2F2A-5F2E-2DE234F0A9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC1E053-A4AB-2F2A-5F2E-2DE234F0A9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BF61D5-B675-1835-AB2E-A19EF2BC4B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BF61D5-B675-1835-AB2E-A19EF2BC4B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BF61D5-B675-1835-AB2E-A19EF2BC4B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BF61D5-B675-1835-AB2E-A19EF2BC4B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4516F9-AEFC-B97F-E781-59652568CCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4516F9-AEFC-B97F-E781-59652568CCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4516F9-AEFC-B97F-E781-59652568CCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4516F9-AEFC-B97F-E781-59652568CCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
